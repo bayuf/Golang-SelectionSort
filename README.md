@@ -1,2 +1,2 @@
 # Golang-SelectionSort
-Implementasi Algortima SelectionSort dengan menggunakan bahasa Pemrograman Go
+Implementasi Algoritma SelectionSort dengan menggunakan bahasa Pemrograman Go
